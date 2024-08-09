@@ -11,7 +11,7 @@ export default [
     rules: {
       '@stylistic/js/indent':                 ['error', 2],
       '@stylistic/js/semi':                   ['error', 'never'],
-      '@stylistic/js/key-spacing':            ['error', { beforeColon: false, afterColon: true, align: 'value' }],
+      '@stylistic/js/key-spacing':            ['error', { beforeColon: false, afterColon: true, mode: 'strict' }],
       '@stylistic/js/quote-props':            ['error', 'as-needed'],
       '@stylistic/js/no-multi-spaces':        ['error', {
         exceptions: {
