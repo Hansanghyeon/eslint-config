@@ -1,12 +1,12 @@
 {
   "name": "@hyeon/eslint-config",
-  "version": "6.1.16",
+  "version": "6.2.0",
   "description": "Hansanghyun custom eslint settings",
   "main": "./src/index.mjs",
   "scripts": {
     "lint": "eslint . --config=eslintrc.json",
     "test": "npm run lint && tape test/*.js",
-    "postpublish": "make postpublish"
+    "postpublis": "make postpublish"
   },
   "repository": {
     "type": "git",
@@ -32,7 +32,6 @@
     "@stylistic/eslint-plugin-jsx": "^2.6.1",
     "@stylistic/eslint-plugin-ts": "^2.6.1",
     "@typescript-eslint/parser": "^8.0.0",
-    "eslint-plugin-arca": "^0.16.0",
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-react": "^7.34.3",
     "typescript-eslint": "^8.0.0"

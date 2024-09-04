@@ -1059,11 +1059,6 @@ eslint-module-utils@^2.8.0:
   dependencies:
     debug "^3.2.7"
 
-eslint-plugin-arca@^0.16.0:
-  version "0.16.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-arca/-/eslint-plugin-arca-0.16.0.tgz#9e5dae90cbe7af9d2ad57491e5d045b3f3ec442b"
-  integrity sha512-Gx0Rw06LfhF0mRXHiUmG+LxyRy4dYLGT49FiAp4yhFgGYF2Tq94CuWFjbwdenp8vw36K2WzbMPObU9FstjwfCQ==
-
 eslint-plugin-import@^2.29.1:
   version "2.29.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-import/-/eslint-plugin-import-2.29.1.tgz#d45b37b5ef5901d639c15270d74d46d161150643"
